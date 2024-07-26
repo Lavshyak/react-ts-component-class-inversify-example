@@ -3,7 +3,6 @@ import {Bar} from "./Bar";
 import {Component} from "react";
 import SERVICE_IDENTIFIER from "./identifiers";
 
-//it works
 export class FooComponent extends Component
 {
     @resolve(SERVICE_IDENTIFIER.BAR)
@@ -16,7 +15,6 @@ export class FooComponent extends Component
     }
 }
 
-//it works
 export function FooComponent1()
 {
     const bar = useInjection<Bar>(SERVICE_IDENTIFIER.BAR);

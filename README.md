@@ -5,7 +5,8 @@ App.tsx,
 Bar.ts,
 FooComponent.tsx,
 identifiers.ts,
-index.tsx
+index.tsx,
+ioc_config.ts
 
 /tsconfig.json
 

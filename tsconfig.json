@@ -22,7 +22,8 @@
     "jsx": "react-jsx",
     "types": ["reflect-metadata"],
     "experimentalDecorators": true,
-    "emitDecoratorMetadata": true
+    "emitDecoratorMetadata": true,
+    "useDefineForClassFields": true
   },
   "include": [
     "src"

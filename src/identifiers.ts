@@ -1,5 +1,5 @@
 const SERVICE_IDENTIFIER = {
-    BAR: Symbol.for("Bar")
+    BAR: Symbol.for("BAR")
 };
 
 export default SERVICE_IDENTIFIER;

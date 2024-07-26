@@ -1,4 +1,13 @@
-check /src/FooComponent.tsx
+changed from default:
+
+/src/:
+App.tsx,
+Bar.ts,
+FooComponent.tsx,
+identifiers.ts,
+index.tsx
+
+/tsconfig.json
 
 
 # Getting Started with Create React App
